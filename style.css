@@ -1,6 +1,6 @@
 .video-container {
-    width: 600px; /* Adjust width as needed */
-    margin: 0 auto; /* Center the video player */
+    width: 50%; 
+    margin: 0 auto; 
   }
   
   video {
@@ -11,16 +11,16 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-top: 10px; /* Adjust spacing as needed */
+    margin-top: 10px; 
   }
   
   .custom-controls button {
-    padding: 5px 10px; /* Adjust padding as needed */
+    padding: 5px 10px; 
     border: 1px solid #ccc;
     border-radius: 4px;
     cursor: pointer;
   }
   
   .custom-controls input[type="range"] {
-    width: 100px; /* Adjust width as needed */
+    width: 100px;
   }
